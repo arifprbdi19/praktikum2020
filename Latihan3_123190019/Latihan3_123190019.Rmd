@@ -1,5 +1,5 @@
 ---
-title: "TugasMurders"
+title: "TugasLatihan3"
 author: "Arif"
 date: "9/29/2021"
 output:
@@ -10,6 +10,8 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+## **Latihan 3 Praktikum Datasience**
 
 ##### 1. Gunakan fungsi str untuk memeriksa struktur objek "murders".
 ```{r}
